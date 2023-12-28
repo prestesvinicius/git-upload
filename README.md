@@ -1,2 +1,2 @@
 # git-upload
-repositório criado utilizando linguagem Git
+repositório criado pelo prompt de comando do windows utilizando linguagem Git
