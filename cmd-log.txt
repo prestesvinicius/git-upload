@@ -1,0 +1,29 @@
+Comandos e respostas do CMD 
+C:\Users\prest\Documents\git-upload
+\Documents\git-upload
+C:\Users\prest\Documents\git-upload
+cd C:\Users\prest\Documents\git-upload
+git init
+git remote add origin https://github.com/prestesvinicius/git-upload.git
+git add.
+git add .
+git commit -m "Primeiro commit"
+git pull origin master
+git push origin master
+git commit -m "add graph function"
+git commit -m "create dummy code"
+git add
+git add dummycode.py
+git commit -m "create dummy code"
+git push origin master
+git stash
+git pull origin master
+git stash apply
+git checkout -b [branch]
+git checkout -b [galho]
+git checkout -b coolbranch
+git checkout coolbranch
+git checkout -b badbranch
+git checkout coolbranch
+git merge badbranch
+prompt $g && (echo Comandos e respostas do CMD >> cmd-log.txt) && (doskey /history >> cmd-log.txt)
